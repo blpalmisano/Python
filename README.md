@@ -19,6 +19,12 @@ Business Insights
  
 ## Descriptions of “Hospital Readmission” Variables
 The dataset titled, Predicting Hospital Readmissions has been retrieved from the data science online platform Kaggle, containing historical data for 10 years of patient information. This data consists of both numerical and categorical variables, as well as calculated variables.  
+
+### Data Source
+<a href="https://www.kaggle.com/datasets/dubradave/hospital-readmissions?resource=download">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="100" />
+</a>  
+
 ## Numerical Variables…    
 "time_in_hospital" - days (from 1 to 14)  
 "n_procedures" - number of procedures performed during the hospital stay  
